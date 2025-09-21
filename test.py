@@ -32,4 +32,5 @@ def insertSort(list, length):
 insertSort(random_list2,length)
 print(random_list2)
 
-def mergesort()
+#def mergesort(list , length):
+     
