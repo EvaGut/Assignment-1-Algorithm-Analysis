@@ -31,6 +31,6 @@ def insertSort(list, length):
            list[j+1] = key
 insertSort(random_list2,length)
 print(random_list2)
-
+print(content)
 #def mergesort(list , length):
      
