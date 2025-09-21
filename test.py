@@ -6,7 +6,7 @@ print( random_list2)
 file_name = "Test.txt"
 file = open(file_name,'r')
 content = file.read()
-file.close()
+
 print(type(content))
 print(content)
 print( "git hub sync test") 
